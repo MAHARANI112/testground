@@ -1,10 +1,10 @@
 # testground
 Pratikum Jobsheet 1
 
-#Deskripsi Proyek
+# Deskripsi Proyek
 Proyek ini adalah contoh sederhana dari server Node.js yang menyajikan pesan "Hello World!" pada port tertentu.
 
-#Instalasi
+# Instalasi
 1)	Pastikan Anda telah menginstal Node.js. Jika belum, [unduh dan instal Node.js](https://nodejs.org/).
 2)	Salin kode di bawah ini ke dalam file dengan ekstensi `.js` (misalnya, `app.js`).
 console.log('Welcome to Node.js!')
